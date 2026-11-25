@@ -21,6 +21,7 @@ In acest repo am facut cateva module simple in SystemC:
 ## ADC
   Modulul de conversie aplica o formula matematica la fiecare ciclu de clk (50 us)pe semnalul generat de generator la fiecare 1us
   Nu stiu daca asta insemna un ADC la inceput (work in progress)
+Un waveform e pus in adc_wave.vcd
 
 ## build and run
     cmake -S . -B build
